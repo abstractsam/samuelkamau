@@ -1,0 +1,195 @@
+body{
+    background-color:deepskyblue ;
+}
+
+h2{
+    color: black;
+
+}
+
+button{
+    width: 280px;
+    height: 40px;
+    background-color: darkcyan;
+    color: black;
+}
+
+input{
+    height: 40px;
+    width: 290px;
+
+}
+
+h5{
+    color: blueviolet;
+}
+p {
+    color: black;
+}
+
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background-color:black;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a{
+    color: white;
+    text-align: center;
+    padding: 16px 22px;
+    display: block;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: yellowgreen;
+}
+
+.banner{
+    width: 1000px;
+    height: 280px;
+    background-color: green;
+}
+
+
+.banner >img{
+    width: 1000px;
+    height: 280px;
+
+
+}
+
+
+.box1{
+    width: 550px;
+    height: 200px;
+    background-color: gray;
+    color: white;
+    font-size: 20px;
+    padding:50px 50px;
+
+
+}
+
+.box2{
+    width: 550px;
+    height: 200px;
+    background-color: darkred;
+    color:white;
+    font-size: 20px;
+    padding: 50px 50px;
+
+}
+
+.box3{
+    width: 550px;
+    height: 200px;
+    background-color: brown;
+    color: white;
+    font-size: 20px;
+    padding: 50px 50px;
+}
+
+.box4{
+    width: 550px;
+    height: 200px;
+    background-color: burlywood;
+    color: white;
+    font-size: 20px;
+    padding: 50px 50px;
+
+}
+
+.bigbox{
+    display: flex;
+    background-color:darkolivegreen;
+justify-content: center;
+}
+
+.bigbox > div{
+    width: 300px;
+    height: 140px;
+    background-color:lavenderblush ;
+    margin: 10px;
+}
+
+.bigbox >div > img{
+    width: 290px;
+    height: 140px;
+
+}
+
+
+.bigbox2{
+      display: flex;
+    background-color:darkolivegreen;
+    justify-content: center;
+
+}
+
+
+.bigbox2 >div{
+    width: 300px;
+    height: 140px;
+    background-color: lavenderblush;
+    margin: 10px;
+}
+
+.bigbox2 >div>img {
+    width: 290px;
+    height: 140px;
+}
+
+.bigbox3 {
+    display: flex;
+    background-color: darkolivegreen;
+    justify-content: center;
+    margin-top: 40px;
+    width: 1000px;
+    height: 250px;
+
+}
+
+.bigbox3>div{
+    width: 600px;
+    height: 160px;
+    margin: 30px;
+}
+
+.bigbox3>div>button{
+
+    width: 150px;
+    height: 30px;
+}
+
+.bigbox3>div>select{
+    width: 300px;
+    height: 45px;
+
+}
+
+.kq{
+    width:800px ;
+    height:400px ;
+}
+
+.kq>img{
+    width:800px ;
+    height: 400px;
+
+
+}
+
+
+
+
+
+
+
+
